@@ -1,4 +1,4 @@
-# test-vue-admin
+# data-table-vue3
 
 ## Project setup
 ```
